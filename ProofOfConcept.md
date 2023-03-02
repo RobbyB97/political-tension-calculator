@@ -60,3 +60,5 @@ A distinction should be made between civil and foreign military strikes, because
 - [All presidential interviews](https://www.presidency.ucsb.edu/documents/app-categories/presidential/interviews)
 
 - [List of wars involving the United States](https://en.wikipedia.org/wiki/List_of_wars_involving_the_United_States)
+
+- [List of U.S Presidents](https://www.loc.gov/rr/print/list/057_chron.html)
